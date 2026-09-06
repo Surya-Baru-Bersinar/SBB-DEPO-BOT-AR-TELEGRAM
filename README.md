@@ -10,4 +10,4 @@ Proyek ini dikembangkan untuk keperluan internal internal perusahaan. Silakan se
 
 ---
 
-* Dikembangkan oleh [ACC-TAX-REIGHTEEN](https://github.com/ACC-TAX-REIGHTEEN)
+* Dikembangkan oleh [SURYA-BARU-BERSINAR](https://github.com/Surya-Baru-Bersinar/SBB-DEPO-BOT-AR-TELEGRAM)
