@@ -1,6 +1,7 @@
 # 🤖 BOT AR Telegram — Chatbot Piutang Real-Time
 
-> **Query data piutang AR kapanpun, dari mana saja — cukup ketik nama atau kode pelanggan di Telegram, bot mengirim laporan bergambar dalam hitungan detik**
+> **Query data piutang AR kapanpun, dari mana saja — cukup ketik nama atau kode pelanggan di Telegram, bot mengirim laporan bergambar dalam hitungan detik.**
+> **Part [Automasi Orderan](https://github.com/Surya-Baru-Bersinar/SBB-Automasi-AR-Orderan)**
 
 ---
 
